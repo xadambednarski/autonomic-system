@@ -1,0 +1,4 @@
+build/
+debug/
+/nbprojects
+Makefile.X
